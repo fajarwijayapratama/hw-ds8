@@ -7,6 +7,4 @@ CREATE TABLE users (
     first_name varchar(30)
     last_name varchar(30)
 );
-
-insert into users (username, first_name, last_name) values (rahmat_digital_skola, rahmat, hidayat);
-insert into users (username, first_name, last_name) values (pannanda_digital_skola, Pannanda, Liko Yu)
+insert into users (username, first_name, last_name) values (pannanda_digital_skola, Pannanda_Liko_Yu)
