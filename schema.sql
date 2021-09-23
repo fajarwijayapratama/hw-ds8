@@ -9,4 +9,4 @@ CREATE TABLE users (
 );
 
 insert into users (username, first_name, last_name) values (rahmat_digital_skola, rahmat, hidayat);
-insert into users (username, first_name, last_name) values (pannandayu, Pannanda, Yu)
+insert into users (username, first_name, last_name) values (pannanda_digital_skola, Pannanda, Liko Yu)
